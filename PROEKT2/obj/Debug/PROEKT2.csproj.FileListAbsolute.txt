@@ -22,3 +22,6 @@ C:\Users\Игорь\Documents\Visual Studio 2012\Projects\PROEKT2\PROEKT2\obj\De
 C:\Users\Игорь\Documents\Visual Studio 2012\Projects\PROEKT2\PROEKT2\obj\Debug\PROEKT2.Form7.resources
 C:\Users\Игорь\Documents\Visual Studio 2012\Projects\PROEKT2\PROEKT2\obj\Debug\PROEKT2.Form8.resources
 C:\Users\Игорь\Documents\Visual Studio 2012\Projects\PROEKT2\PROEKT2\obj\Debug\PROEKT2.Form9.resources
+C:\bek\PROEKT2\PROEKT2\bin\Debug\PROEKT2.exe.config
+C:\bek\PROEKT2\PROEKT2\obj\Debug\PROEKT2.exe
+C:\bek\PROEKT2\PROEKT2\obj\Debug\PROEKT2.pdb
